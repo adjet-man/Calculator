@@ -1,4 +1,4 @@
-Introduction:
+#Introduction:
 This is a simple calculator program written in C++. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division. It also has additional features such as calculating the power of a number and finding the square root of a number.
 
 Usage:
